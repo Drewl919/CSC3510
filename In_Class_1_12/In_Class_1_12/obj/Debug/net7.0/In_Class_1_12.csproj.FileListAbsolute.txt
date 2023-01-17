@@ -1,0 +1,15 @@
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/bin/Debug/net7.0/In_Class_1_12
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/bin/Debug/net7.0/In_Class_1_12.deps.json
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/bin/Debug/net7.0/In_Class_1_12.runtimeconfig.json
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/bin/Debug/net7.0/In_Class_1_12.dll
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/bin/Debug/net7.0/In_Class_1_12.pdb
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/obj/Debug/net7.0/In_Class_1_12.csproj.AssemblyReference.cache
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/obj/Debug/net7.0/In_Class_1_12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/obj/Debug/net7.0/In_Class_1_12.AssemblyInfoInputs.cache
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/obj/Debug/net7.0/In_Class_1_12.AssemblyInfo.cs
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/obj/Debug/net7.0/In_Class_1_12.csproj.CoreCompileInputs.cache
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/obj/Debug/net7.0/In_Class_1_12.dll
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/obj/Debug/net7.0/refint/In_Class_1_12.dll
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/obj/Debug/net7.0/In_Class_1_12.pdb
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/obj/Debug/net7.0/In_Class_1_12.genruntimeconfig.cache
+/Users/andrewmusielak/Documents/Coding Projects/Class/In_Class_1_12/In_Class_1_12/obj/Debug/net7.0/ref/In_Class_1_12.dll
