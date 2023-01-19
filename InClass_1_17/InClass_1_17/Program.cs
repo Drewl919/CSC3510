@@ -1,6 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
 //using InClass_1_17;
 
+using System.Runtime.CompilerServices;
+
 Console.WriteLine("Hello, World!");
 
 List<Book> books = getBooksFromUser();
@@ -10,8 +12,6 @@ foreach(Book book in books) {
     Console.WriteLine("Title:{0} P:{1} P:{2} ppp:{3}", book.title, book.pages, book.price, book.PricePerPage());
 }
 Console.Read();
-
-
 
 List<Book> getBooksFromUser() {
     List<Book> books = new List<Book>();

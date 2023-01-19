@@ -1,0 +1,15 @@
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\bin\Debug\net7.0\InClass_1_19.exe
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\bin\Debug\net7.0\InClass_1_19.deps.json
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\bin\Debug\net7.0\InClass_1_19.runtimeconfig.json
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\bin\Debug\net7.0\InClass_1_19.dll
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\bin\Debug\net7.0\InClass_1_19.pdb
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\obj\Debug\net7.0\InClass_1_19.csproj.AssemblyReference.cache
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\obj\Debug\net7.0\InClass_1_19.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\obj\Debug\net7.0\InClass_1_19.AssemblyInfoInputs.cache
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\obj\Debug\net7.0\InClass_1_19.AssemblyInfo.cs
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\obj\Debug\net7.0\InClass_1_19.csproj.CoreCompileInputs.cache
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\obj\Debug\net7.0\InClass_1_19.dll
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\obj\Debug\net7.0\refint\InClass_1_19.dll
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\obj\Debug\net7.0\InClass_1_19.pdb
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\obj\Debug\net7.0\InClass_1_19.genruntimeconfig.cache
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_1_19\InClass_1_19\obj\Debug\net7.0\ref\InClass_1_19.dll
