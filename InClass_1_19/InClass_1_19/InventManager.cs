@@ -4,70 +4,57 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace InClass_1_19
-{
-    public class InventManager
-    {
+namespace InClass_1_19 {
+    public class InventManager {
 
         public string inFile;
         public string[] rows;
         public List<Inventory> inventory = new List<Inventory>();
 
-        public InventManager(string inFile)
-        {
+        public InventManager(string inFile) {
             this.inFile = inFile;
         }
 
-        public void setDataFromFile()
-        {
+        public void setDataFromFile() {
             //string[] rows = new string[0];
-            try
-            {
+            try {
                 this.rows = File.ReadAllLines(inFile);
-            }
-            catch (Exception e)
-            {
+            } catch (Exception e) {
                 Console.WriteLine("Error on File Open");
-                Console.WriteLine(e.Message);
+                //console.WriteLine(e.Message);
+                throw new FileNotFoundException("Error on file open");
             }
         }
 
-        public string[] getDataRows()
-        {
+        public string[] getDataRows() {
             return rows;
         }
 
-        public void parseRows()
-        {
-            foreach(string row in this.rows)
-            {
+        public void parseRows() {
+            foreach (string row in this.rows) {
                 string[] toks = row.Split(',');
                 string item;
                 int count;
                 decimal price;
-                try
-                {
+
+                try {
                     item = toks[0];
-                } catch(Exception e)
-                {
+                } catch (Exception e) {
                     throw new ArgumentException("Item not right");
                 }
-                try
-                {
+
+                try {
                     count = int.Parse(toks[1]);
-                }
-                catch (Exception e)
-                {
+                } catch (Exception e) {
                     throw new ArgumentException("Count not right");
                 }
-                try
-                {
+
+                try {
                     price = decimal.Parse(toks[2]);
-                }
-                catch (Exception e)
-                {
+                } catch (Exception e) {
                     throw new ArgumentException("Price not right");
                 }
+
                 inventory.Add(new Inventory(item, count, price));
             }
         }
