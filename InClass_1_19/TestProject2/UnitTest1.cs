@@ -1,7 +1,6 @@
 using InClass_1_19;
 
-namespace TestProject2
-{
+namespace TestProject2 {
     [TestClass]
     public class UnitTest1 {
         [TestMethod]

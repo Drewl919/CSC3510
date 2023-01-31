@@ -1,0 +1,39 @@
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.csproj.AssemblyReference.cache
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.GeneratedMSBuildEditorConfig.editorconfig
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.AssemblyInfoInputs.cache
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.AssemblyInfo.cs
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.csproj.CoreCompileInputs.cache
+//vmware-host/Shared Folders/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.csproj.AssemblyReference.cache
+//vmware-host/Shared Folders/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.GeneratedMSBuildEditorConfig.editorconfig
+//vmware-host/Shared Folders/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.AssemblyInfoInputs.cache
+//vmware-host/Shared Folders/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.AssemblyInfo.cs
+//vmware-host/Shared Folders/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.csproj.CoreCompileInputs.cache
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.exe
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.deps.json
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.runtimeconfig.json
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.dll
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.pdb
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/MySqlConnector.dll
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.csproj.CopyComplete
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.dll
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/refint/InClass_1_31.dll
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.pdb
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.genruntimeconfig.cache
+//vmware-host/Shared Folders/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/ref/InClass_1_31.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.deps.json
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.runtimeconfig.json
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/InClass_1_31.pdb
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/bin/Debug/net7.0/MySqlConnector.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.csproj.AssemblyReference.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.AssemblyInfoInputs.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.AssemblyInfo.cs
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.csproj.CoreCompileInputs.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.csproj.CopyComplete
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/refint/InClass_1_31.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.pdb
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.genruntimeconfig.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/ref/InClass_1_31.dll
