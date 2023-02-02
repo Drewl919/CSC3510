@@ -1,0 +1,15 @@
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\bin\Debug\net7.0\ExerciseApp.exe
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\bin\Debug\net7.0\ExerciseApp.deps.json
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\bin\Debug\net7.0\ExerciseApp.runtimeconfig.json
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\bin\Debug\net7.0\ExerciseApp.dll
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\bin\Debug\net7.0\ExerciseApp.pdb
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\obj\Debug\net7.0\ExerciseApp.csproj.AssemblyReference.cache
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\obj\Debug\net7.0\ExerciseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\obj\Debug\net7.0\ExerciseApp.AssemblyInfoInputs.cache
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\obj\Debug\net7.0\ExerciseApp.AssemblyInfo.cs
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\obj\Debug\net7.0\ExerciseApp.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\obj\Debug\net7.0\ExerciseApp.dll
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\obj\Debug\net7.0\refint\ExerciseApp.dll
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\obj\Debug\net7.0\ExerciseApp.pdb
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\obj\Debug\net7.0\ExerciseApp.genruntimeconfig.cache
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\ExerciseApp\ExerciseApp\ExerciseApp\obj\Debug\net7.0\ref\ExerciseApp.dll

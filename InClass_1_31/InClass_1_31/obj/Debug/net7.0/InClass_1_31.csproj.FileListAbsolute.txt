@@ -37,3 +37,6 @@
 /Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.pdb
 /Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/InClass_1_31.genruntimeconfig.cache
 /Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_1_31/InClass_1_31/obj/Debug/net7.0/ref/InClass_1_31.dll
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\InClass_1_31\InClass_1_31\obj\Debug\net7.0\InClass_1_31.dll
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\InClass_1_31\InClass_1_31\obj\Debug\net7.0\refint\InClass_1_31.dll
+C:\Users\Andrew Musielak\Documents\GitHub\CSC3510\InClass_1_31\InClass_1_31\obj\Debug\net7.0\InClass_1_31.pdb
