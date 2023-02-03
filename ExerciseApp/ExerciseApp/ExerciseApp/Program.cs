@@ -4,8 +4,8 @@ using ExerciseApp;
 using System.ComponentModel.DataAnnotations.Schema;
 
 string path = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.FullName;
-string inFile = path + "\\..\\exercises.txt";
-Console.WriteLine(inFile);
+string inFile = path + "\\..\\input\\exercises.txt";
+//Console.WriteLine(inFile);
 
 CalorieBurner cb = new CalorieBurner(inFile);
 cb.getRowsFromFile();

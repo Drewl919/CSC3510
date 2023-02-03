@@ -5,6 +5,9 @@ using System.Text;
 using System.Threading.Tasks;
 using static System.Runtime.InteropServices.JavaScript.JSType;
 
+// Andrew Musielak
+// CSC3510
+
 namespace ExerciseApp {
     public class CalorieBurner {
         public string inFile; // The input file path and name
@@ -41,19 +44,26 @@ namespace ExerciseApp {
                 } catch (Exception ex) {
                     throw new ArgumentException("Date format is not right");
                 }
-                try {
+                if (toks[1].ToLower() is "walking" or "biking") {
                     exType = toks[1];
-                } catch(Exception ex) {
+                } else {
                     throw new ArgumentException("Type format is not right");
                 }
                 try {
-                    time = decimal.Parse(toks[2]);
+                    if (decimal.Parse(toks[2]) > 0) {
+                        time = decimal.Parse(toks[2]);
+                    } else {
+                        time = 0.0m;
+                    }
                 } catch(Exception ex) {
                     throw new ArgumentException("Time format is not right");
                 }
                 try {
-                    speed = decimal.Parse(toks[3]);
-                    Console.WriteLine(speed);
+                    if(decimal.Parse(toks[3]) > 0) {
+                        speed = decimal.Parse(toks[3]);
+                    } else {
+                        speed = 0m;
+                    }
                 } catch(Exception ex) {
                     throw new ArgumentException("Speed format is not right");
                 }
@@ -62,13 +72,6 @@ namespace ExerciseApp {
             this.exerData = eData;
         }
         public decimal getWalkingCalories(DateTime inDate) {
-            // ToDo: Return the total calories walking for input date
-            //  Use these speeds to calculate calories:
-            //      Calories Per Mile Speed
-            //      a. 100       2.5 or more,
-            //      b. 125         3 or more,
-            //      c.  90        less than 2.5
-            // Returns: the total calories burned for that day for walking
             decimal cals = 0.0m;
             Exercise ex = null;
             foreach (Exercise exer in this.exerData) {
@@ -78,22 +81,17 @@ namespace ExerciseApp {
                 }
             }
             if(ex.speed >= 3.0m) {
-                cals = Decimal.Multiply(125.0m, ex.speed);
+                cals = Decimal.Multiply(125.0m, ex.time);
             } else if(ex.speed >= 2.5m) {
-                cals = Decimal.Multiply(100.0m, ex.speed);
+                cals = Decimal.Multiply(100.0m, ex.time);
+            } else if(ex.speed > 0m) {
+                cals = Decimal.Multiply(90.0m, ex.time);
             } else {
-                cals = Decimal.Multiply(90.0m, ex.speed);
+                cals = 0m;
             }
             return cals;
         }
         public decimal getBikingCalories(DateTime dateTime) {
-            // ToDo: Return the total calories walking for input date
-            //  Use these speeds to calculate calories:
-            //  Speed              Calories Per Mile
-            //  Light < 10 MPH      30 
-            //  Moderate 10-13.9    45 
-            //  Vigorous 14-19.9  55 Calories Per Mile
-            // Racing >=20 65.4 - Calories Per Mile
             decimal cals = 0.0m;
             Exercise ex = null;
             foreach(Exercise exer in this.exerData) {
@@ -102,14 +100,16 @@ namespace ExerciseApp {
                     break;
                 }
             }
-            if(ex.speed < 10m) {
+            if(ex.speed > 0m && ex.speed < 10m) {
                 cals = Decimal.Multiply(30, ex.time);
             } else if(ex.speed >= 10 && ex.speed < 14) {
                 cals = Decimal.Multiply(45, ex.time);
             } else if(ex.speed >= 14 && ex.speed < 20) { 
                 cals = Decimal.Multiply(55, ex.time);
-            } else {
+            } else if (ex.speed >= 20) {
                 cals = Decimal.Multiply(65, ex.time);
+            } else {
+                cals = 0m;
             }
             return cals;
         }
