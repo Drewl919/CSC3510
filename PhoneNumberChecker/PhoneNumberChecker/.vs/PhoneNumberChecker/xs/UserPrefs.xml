@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{BD2A1EAB-448D-45C2-B8C5-FAD5706A350B}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../TestProject1/UnitTest1.cs">
+    <Files>
+      <File FileName="PhoneNumber.cs" Line="30" Column="15" />
+      <File FileName="../TestProject1/UnitTest1.cs" Line="5" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PhoneNumberChecker" expanded="True">
+            <Node name="PhoneNumberChecker" expanded="True" />
+            <Node name="TestProject1" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PhoneNumberChecker" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PhoneNumberChecker PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
