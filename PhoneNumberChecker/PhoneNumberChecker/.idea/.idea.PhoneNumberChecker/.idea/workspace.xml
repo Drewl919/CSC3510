@@ -4,7 +4,11 @@
     <projectFile>PhoneNumberChecker.csproj</projectFile>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4e055275-0fe6-4837-80b8-40f69351b0d6" name="Changes" comment="" />
+    <list default="true" id="4e055275-0fe6-4837-80b8-40f69351b0d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/input1.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.PhoneNumberChecker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PhoneNumberChecker/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestProject1/obj/Debug/net7.0/TestProject1.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TestProject1/obj/Debug/net7.0/TestProject1.csproj.AssemblyReference.cache" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,9 +24,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -33,7 +39,7 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected=".NET Project.PhoneNumberChecker">
+  <component name="RunManager">
     <configuration name="PhoneNumberChecker" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
       <option name="PROGRAM_PARAMETERS" value="" />
@@ -62,6 +68,10 @@
       <option name="presentableId" value="Default" />
       <updated>1675802683401</updated>
       <workItem from="1675802684495" duration="854000" />
+      <workItem from="1675970563031" duration="1189000" />
+      <workItem from="1675973179943" duration="486000" />
+      <workItem from="1675973686789" duration="52000" />
+      <workItem from="1675973869361" duration="1431000" />
     </task>
     <servers />
   </component>
