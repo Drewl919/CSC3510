@@ -1,0 +1,10 @@
+#libraryCard
+Valid Card:
+    False. [single]
+    True.
+No Fees:
+    False.
+    True. [property ValidCard]
+UnderLimit:
+    False. [if ValidCard]
+    True.

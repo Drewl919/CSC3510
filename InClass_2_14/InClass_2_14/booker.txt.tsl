@@ -1,0 +1,28 @@
+
+Test Case 1  		<single>
+   Card :  notValid
+
+
+Test Case 2  		(Key = 1.1.1.)
+   Card  :  valid
+   Fees  :  0
+   Books :  9
+
+
+Test Case 3  		(Key = 1.1.2.)
+   Card  :  valid
+   Fees  :  0
+   Books :  10
+
+
+Test Case 4  		(Key = 1.1.3.)
+   Card  :  valid
+   Fees  :  0
+   Books :  11
+
+
+Test Case 5  		(Key = 1.2.0.)
+   Card  :  valid
+   Fees  :  1Cent
+   Books :  <n/a>
+

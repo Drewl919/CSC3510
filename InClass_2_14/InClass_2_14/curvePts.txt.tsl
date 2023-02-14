@@ -1,0 +1,53 @@
+
+Test Case 1  		<error>
+   Score :  101
+
+
+Test Case 2  		<error>
+   curvePt :  101
+
+
+Test Case 3  		(Key = 1.1.)
+   Score   :  0
+   curvePt :  0
+
+
+Test Case 4  		(Key = 1.2.)
+   Score   :  0
+   curvePt :  negative
+
+
+Test Case 5  		(Key = 1.4.)
+   Score   :  0
+   curvePt :  50
+
+
+Test Case 6  		(Key = 2.2.)
+   Score   :  100
+   curvePt :  negative
+
+
+Test Case 7  		(Key = 2.4.)
+   Score   :  100
+   curvePt :  50
+
+
+Test Case 8  		(Key = 4.2.)
+   Score   :  99
+   curvePt :  negative
+
+
+Test Case 9  		(Key = 4.4.)
+   Score   :  99
+   curvePt :  50
+
+
+Test Case 10 		(Key = 5.2.)
+   Score   :  70
+   curvePt :  negative
+
+
+Test Case 11 		(Key = 5.4.)
+   Score   :  70
+   curvePt :  50
+

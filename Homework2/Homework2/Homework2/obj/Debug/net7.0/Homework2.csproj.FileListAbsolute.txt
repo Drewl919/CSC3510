@@ -1,0 +1,15 @@
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/bin/Debug/net7.0/Homework2
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/bin/Debug/net7.0/Homework2.deps.json
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/bin/Debug/net7.0/Homework2.runtimeconfig.json
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/bin/Debug/net7.0/Homework2.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/bin/Debug/net7.0/Homework2.pdb
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.csproj.AssemblyReference.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.AssemblyInfoInputs.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.AssemblyInfo.cs
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.csproj.CoreCompileInputs.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/obj/Debug/net7.0/refint/Homework2.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.pdb
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.genruntimeconfig.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/obj/Debug/net7.0/ref/Homework2.dll

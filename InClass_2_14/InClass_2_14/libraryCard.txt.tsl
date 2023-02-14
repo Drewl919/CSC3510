@@ -1,0 +1,22 @@
+
+Test Case 1  		<single>
+   Valid Card :  False
+
+
+Test Case 2  		(Key = 2.1.2.)
+   Valid Card :  True
+   No Fees    :  False
+   UnderLimit :  True
+
+
+Test Case 3  		(Key = 2.2.1.)
+   Valid Card :  True
+   No Fees    :  True
+   UnderLimit :  False
+
+
+Test Case 4  		(Key = 2.2.2.)
+   Valid Card :  True
+   No Fees    :  True
+   UnderLimit :  True
+

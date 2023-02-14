@@ -1,0 +1,10 @@
+Card:
+    valid. [property valid]
+    notValid. [single]
+Fees:
+    0.
+    1Cent. [property fee]
+Books:
+    9. [if !fee]
+    10. [if !fee]
+    11. [if !fee]

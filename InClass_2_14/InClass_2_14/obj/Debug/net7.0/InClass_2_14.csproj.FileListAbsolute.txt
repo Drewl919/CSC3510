@@ -1,0 +1,15 @@
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/bin/Debug/net7.0/InClass_2_14
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/bin/Debug/net7.0/InClass_2_14.deps.json
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/bin/Debug/net7.0/InClass_2_14.runtimeconfig.json
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/bin/Debug/net7.0/InClass_2_14.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/bin/Debug/net7.0/InClass_2_14.pdb
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.csproj.AssemblyReference.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.AssemblyInfoInputs.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.AssemblyInfo.cs
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.csproj.CoreCompileInputs.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/refint/InClass_2_14.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.pdb
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/InClass_2_14.genruntimeconfig.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/InClass_2_14/InClass_2_14/obj/Debug/net7.0/ref/InClass_2_14.dll
