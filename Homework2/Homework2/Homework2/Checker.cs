@@ -1,3 +1,6 @@
+// Andrew Musielak
+// CSC3510
+
 namespace Homework2;
 
 public class Checker {
@@ -8,54 +11,52 @@ public class Checker {
     }
 
     public string checkPassword() {
-        // Check that inPassword is valid
-
         string csvRet = "0";
         List<int> rules = new List<int>();
-
-        if (!checkLength()) {
+        if (inPassword.Length < 8) {
             rules.Add(1);
         }
-
-        if (!checkLowChars()) {
+        Boolean noUpperCase = false;
+        Boolean noLowerCase = false;
+        Boolean validSpecial = false;
+        int digits = 0;
+        for (int i = 0; i < inPassword.Length; i++) {
+            if (char.IsUpper(inPassword[i])) {
+                noUpperCase = true;
+            } else if (char.IsLower(inPassword[i])){
+                noLowerCase = true;
+            } else if ((inPassword[i] == '*' || inPassword[i] == '&' || inPassword[i] == '^' || inPassword[i] == '!' ||
+                   inPassword[i] == '$') && i != inPassword.Length - 1) {
+                validSpecial = true;
+            } else if (Char.IsDigit(inPassword[i])){
+                digits++;
+            }
+        }
+        if (!noUpperCase) {
             rules.Add(2);
         }
-        
-        //Check for a valid password using the following rules:
-        // 1 Must be at least 8 characters in length
-        // 2 Must contain at least 1 upper character
-        // 3 Must contain at least 1 lower case character
-        // 4 Must contain at least one of these characters *&^!$
-        //        but they must not be in the last position of the string
-        // 5 It must contain at least 2 digits
-        // 6 It may not contain one of these words: max, bank, money, cash
-        //
-        //Returns a string that indicates each of the above rule violation CSV
-        //For example if inPassword
-        // a. is valid except for rule 1 return "1"
-        // b. is valid except for rule 1 and 3 return "1,3"
-        // c. is valid except for rule 1, 4, and 5 return "1,4,5"
-        // d. is valid return "0"
-        //Write this method
-        //Include tests to achieve 100% statement coverage
-        //Use TDD
-        // -Hand in at least 3 screen shots that shows you are using TDD
-        // -Hand in a screen shot that shows the code passing all tests
-
+        if (!noLowerCase) {
+            rules.Add(3);
+        }
+        if (!validSpecial) {
+            rules.Add(4);
+        }
+        if (digits < 2) {
+            rules.Add(5);
+        }
+        if (inPassword.ToLower().Contains("max") || inPassword.ToLower().Contains("bank") ||
+            inPassword.ToLower().Contains("money") || inPassword.ToLower().Contains("cash")) {
+            rules.Add(6);
+        }
+        Boolean first = true;
+        foreach (int i in rules) {
+            if (first) {
+                csvRet = i.ToString();
+                first = false;
+            } else {
+                csvRet = csvRet + "," + i;
+            }
+        }
         return csvRet;
-    }
-
-    public bool checkLowChars() {
-        if (inPassword.Any(char.IsLower)) {
-            return true;
-        }
-        return false;
-    }
-
-    public bool checkLength() {
-        if (inPassword.Length >= 8) {
-            return true;
-        }
-        return false;
     }
 }

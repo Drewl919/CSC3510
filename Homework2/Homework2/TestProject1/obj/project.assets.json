@@ -6788,33 +6788,39 @@
     ]
   },
   "packageFolders": {
-    "/Users/andrewmusielak/.nuget/packages/": {}
+    "C:\\Users\\Andrew Musielak\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/TestProject1/TestProject1.csproj",
+      "projectUniqueName": "C:\\Users\\Andrew Musielak\\Documents\\GitHub\\CSC3510\\Homework2\\Homework2\\TestProject1\\TestProject1.csproj",
       "projectName": "TestProject1",
-      "projectPath": "/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/TestProject1/TestProject1.csproj",
-      "packagesPath": "/Users/andrewmusielak/.nuget/packages/",
-      "outputPath": "/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/TestProject1/obj/",
+      "projectPath": "C:\\Users\\Andrew Musielak\\Documents\\GitHub\\CSC3510\\Homework2\\Homework2\\TestProject1\\TestProject1.csproj",
+      "packagesPath": "C:\\Users\\Andrew Musielak\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Andrew Musielak\\Documents\\GitHub\\CSC3510\\Homework2\\Homework2\\TestProject1\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/andrewmusielak/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Andrew Musielak\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "/usr/local/share/dotnet/library-packs": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/Homework2.csproj": {
-              "projectPath": "/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Homework2/Homework2/Homework2/Homework2.csproj"
+            "C:\\Users\\Andrew Musielak\\Documents\\GitHub\\CSC3510\\Homework2\\Homework2\\Homework2\\Homework2.csproj": {
+              "projectPath": "C:\\Users\\Andrew Musielak\\Documents\\GitHub\\CSC3510\\Homework2\\Homework2\\Homework2\\Homework2.csproj"
             }
           }
         }
@@ -6862,7 +6868,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
       }
     }
   }
