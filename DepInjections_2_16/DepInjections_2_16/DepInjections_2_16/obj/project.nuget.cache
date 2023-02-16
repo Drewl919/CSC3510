@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T5wFNdlV+pGeJIvZrJCv6GtlV05Tm60texkAKcPVa9UJD4Hd6UfUR/dPfZUuTS39+b64X6mSviHthD83ddJs6A==",
+  "success": true,
+  "projectFilePath": "/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/DepInjections_2_16/DepInjections_2_16/DepInjections_2_16/DepInjections_2_16.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrewmusielak/.nuget/packages/microsoft.extensions.logging.abstractions/7.0.0/microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "/Users/andrewmusielak/.nuget/packages/mysqlconnector/2.3.0-beta.1/mysqlconnector.2.3.0-beta.1.nupkg.sha512"
+  ],
+  "logs": []
+}
