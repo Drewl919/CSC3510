@@ -6,9 +6,18 @@ namespace DepInjections_2_16;
 public class Weather2 {
     public List<HiPerMonth> HiPerMonths { get; set; }
 
+    public IWeatherData weatherData {
+        set {
+            this.weatherData = value;
+        }
+        get {
+            return weatherData;
+        }
+    }
+
     public Weather2(IWeatherData weatherData) {
-        // DBConnect DB = new DBConnect();
-        this.HiPerMonths = weatherData.GetWeatherData();
+        this.weatherData = weatherData;
+        HiPerMonths = weatherData.GetWeatherData();
     }
 
     public double getSummerHiAver(){

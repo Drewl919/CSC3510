@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "JDUZZvhL9pV0K2dtvWTwTsaij4nA8DJPRRT1cQ4skOcwP+qDlhHp2x6VFB0i6tBj0HcgJSQpsksrp45BEJbgDA==",
+  "success": true,
+  "projectFilePath": "/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/CreditCardEvaluation/CreditCardEvaluation/CreditCardEvaluation/CreditCardEvaluation.csproj",
+  "expectedPackageFiles": [
+    "/Users/andrewmusielak/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
+    "/Users/andrewmusielak/.nuget/packages/moq/4.18.4/moq.4.18.4.nupkg.sha512",
+    "/Users/andrewmusielak/.nuget/packages/system.diagnostics.eventlog/6.0.0/system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
