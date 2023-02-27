@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewMT", "ReviewMT\ReviewMT.csproj", "{60106C30-090D-4F0C-9C25-EB7F210978D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewTests", "ReviewTests\ReviewTests.csproj", "{22829301-DA60-421D-B0CF-00E2D5EC8F75}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60106C30-090D-4F0C-9C25-EB7F210978D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60106C30-090D-4F0C-9C25-EB7F210978D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60106C30-090D-4F0C-9C25-EB7F210978D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60106C30-090D-4F0C-9C25-EB7F210978D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22829301-DA60-421D-B0CF-00E2D5EC8F75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22829301-DA60-421D-B0CF-00E2D5EC8F75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22829301-DA60-421D-B0CF-00E2D5EC8F75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22829301-DA60-421D-B0CF-00E2D5EC8F75}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

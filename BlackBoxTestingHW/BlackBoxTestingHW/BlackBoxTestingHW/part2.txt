@@ -1,0 +1,19 @@
+#Andrew Musielak
+#Calculating Vacation Hours
+
+Level:
+    M1. [property m1]
+    M2. [property m2]
+    E.
+    A. [error]
+Years:
+    negative.
+    0.
+    2.
+    5.
+    7.
+    10.
+    12.
+Extra Vacation:
+    5. [if m1]
+    10. [if m2]

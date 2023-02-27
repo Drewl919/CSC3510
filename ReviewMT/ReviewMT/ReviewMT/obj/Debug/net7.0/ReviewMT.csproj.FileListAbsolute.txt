@@ -1,0 +1,15 @@
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/bin/Debug/net7.0/ReviewMT
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/bin/Debug/net7.0/ReviewMT.deps.json
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/bin/Debug/net7.0/ReviewMT.runtimeconfig.json
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/bin/Debug/net7.0/ReviewMT.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/bin/Debug/net7.0/ReviewMT.pdb
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/obj/Debug/net7.0/ReviewMT.csproj.AssemblyReference.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/obj/Debug/net7.0/ReviewMT.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/obj/Debug/net7.0/ReviewMT.AssemblyInfoInputs.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/obj/Debug/net7.0/ReviewMT.AssemblyInfo.cs
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/obj/Debug/net7.0/ReviewMT.csproj.CoreCompileInputs.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/obj/Debug/net7.0/ReviewMT.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/obj/Debug/net7.0/refint/ReviewMT.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/obj/Debug/net7.0/ReviewMT.pdb
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/obj/Debug/net7.0/ReviewMT.genruntimeconfig.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/ReviewMT/ReviewMT/ReviewMT/obj/Debug/net7.0/ref/ReviewMT.dll

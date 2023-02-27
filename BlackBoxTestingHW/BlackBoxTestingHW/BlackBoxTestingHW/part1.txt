@@ -1,0 +1,18 @@
+#Andrew Musielak
+#Salary Calculator
+
+Hours:
+    0. [error]
+    negative. [error]
+    1.
+    15.
+    40.
+    41. [error]
+
+Rate:
+    0. [single]
+    negative. [error]
+    10.
+    15.
+    30.
+    31. [error]

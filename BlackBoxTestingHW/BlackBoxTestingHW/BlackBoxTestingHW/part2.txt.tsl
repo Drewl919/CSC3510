@@ -1,0 +1,131 @@
+#Andrew Musielak
+
+Test Case 1  		<error>
+   Level :  A
+
+
+Test Case 2  		(Key = 1.1.1.)
+   Level          :  M1
+   Years          :  negative
+   Extra Vacation :  5
+
+
+Test Case 3  		(Key = 1.2.1.)
+   Level          :  M1
+   Years          :  0
+   Extra Vacation :  5
+
+
+Test Case 4  		(Key = 1.3.1.)
+   Level          :  M1
+   Years          :  2
+   Extra Vacation :  5
+
+
+Test Case 5  		(Key = 1.4.1.)
+   Level          :  M1
+   Years          :  5
+   Extra Vacation :  5
+
+
+Test Case 6  		(Key = 1.5.1.)
+   Level          :  M1
+   Years          :  7
+   Extra Vacation :  5
+
+
+Test Case 7  		(Key = 1.6.1.)
+   Level          :  M1
+   Years          :  10
+   Extra Vacation :  5
+
+
+Test Case 8  		(Key = 1.7.1.)
+   Level          :  M1
+   Years          :  12
+   Extra Vacation :  5
+
+
+Test Case 9  		(Key = 2.1.2.)
+   Level          :  M2
+   Years          :  negative
+   Extra Vacation :  10
+
+
+Test Case 10 		(Key = 2.2.2.)
+   Level          :  M2
+   Years          :  0
+   Extra Vacation :  10
+
+
+Test Case 11 		(Key = 2.3.2.)
+   Level          :  M2
+   Years          :  2
+   Extra Vacation :  10
+
+
+Test Case 12 		(Key = 2.4.2.)
+   Level          :  M2
+   Years          :  5
+   Extra Vacation :  10
+
+
+Test Case 13 		(Key = 2.5.2.)
+   Level          :  M2
+   Years          :  7
+   Extra Vacation :  10
+
+
+Test Case 14 		(Key = 2.6.2.)
+   Level          :  M2
+   Years          :  10
+   Extra Vacation :  10
+
+
+Test Case 15 		(Key = 2.7.2.)
+   Level          :  M2
+   Years          :  12
+   Extra Vacation :  10
+
+
+Test Case 16 		(Key = 3.1.0.)
+   Level          :  E
+   Years          :  negative
+   Extra Vacation :  <n/a>
+
+
+Test Case 17 		(Key = 3.2.0.)
+   Level          :  E
+   Years          :  0
+   Extra Vacation :  <n/a>
+
+
+Test Case 18 		(Key = 3.3.0.)
+   Level          :  E
+   Years          :  2
+   Extra Vacation :  <n/a>
+
+
+Test Case 19 		(Key = 3.4.0.)
+   Level          :  E
+   Years          :  5
+   Extra Vacation :  <n/a>
+
+
+Test Case 20 		(Key = 3.5.0.)
+   Level          :  E
+   Years          :  7
+   Extra Vacation :  <n/a>
+
+
+Test Case 21 		(Key = 3.6.0.)
+   Level          :  E
+   Years          :  10
+   Extra Vacation :  <n/a>
+
+
+Test Case 22 		(Key = 3.7.0.)
+   Level          :  E
+   Years          :  12
+   Extra Vacation :  <n/a>
+
