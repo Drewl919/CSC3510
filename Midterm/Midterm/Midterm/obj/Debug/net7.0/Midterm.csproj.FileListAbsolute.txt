@@ -1,0 +1,15 @@
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/bin/Debug/net7.0/Midterm
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/bin/Debug/net7.0/Midterm.deps.json
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/bin/Debug/net7.0/Midterm.runtimeconfig.json
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/bin/Debug/net7.0/Midterm.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/bin/Debug/net7.0/Midterm.pdb
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/obj/Debug/net7.0/Midterm.csproj.AssemblyReference.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/obj/Debug/net7.0/Midterm.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/obj/Debug/net7.0/Midterm.AssemblyInfoInputs.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/obj/Debug/net7.0/Midterm.AssemblyInfo.cs
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/obj/Debug/net7.0/Midterm.csproj.CoreCompileInputs.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/obj/Debug/net7.0/Midterm.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/obj/Debug/net7.0/refint/Midterm.dll
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/obj/Debug/net7.0/Midterm.pdb
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/obj/Debug/net7.0/Midterm.genruntimeconfig.cache
+/Users/andrewmusielak/Documents/Coding Projects/Github/CSC3510/Midterm/Midterm/Midterm/obj/Debug/net7.0/ref/Midterm.dll
