@@ -1,0 +1,15 @@
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.exe
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.deps.json
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.runtimeconfig.json
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.dll
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\bin\Debug\net6.0\SalaryCalculator.pdb
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.csproj.AssemblyReference.cache
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.AssemblyInfoInputs.cache
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.AssemblyInfo.cs
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.csproj.CoreCompileInputs.cache
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.dll
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\obj\Debug\net6.0\refint\SalaryCalculator.dll
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.pdb
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\obj\Debug\net6.0\SalaryCalculator.genruntimeconfig.cache
+Z:\Documents\Coding Projects\Github\CSC3510\InClass_2_2\SalaryCalculator\obj\Debug\net6.0\ref\SalaryCalculator.dll

@@ -5,9 +5,114 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4e055275-0fe6-4837-80b8-40f69351b0d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/input1.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.PhoneNumberChecker/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.PhoneNumberChecker/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestProject1/obj/Debug/net7.0/TestProject1.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../TestProject1/obj/Debug/net7.0/TestProject1.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/IGetData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/TaxChecker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/TaxForm.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/MidtermTestsPT1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/MidtermTestsPT2.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/.idea/.idea.Midterm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/.idea/.idea.Midterm/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/IGetData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/Midterm.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TaxChecker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TaxForm.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/TestProject1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/Usings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/bin/Debug/net6.0/CoverletSourceRootsMapping" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/Debug/net6.0/TestProject1.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/Debug/net6.0/TestProject1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/Debug/net6.0/TestProject1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/Debug/net6.0/TestProject1.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/Debug/net6.0/TestProject1.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/Debug/net6.0/TestProject1.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/TestProject1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/TestProject1.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/TestProject1.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/TestProject1/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/ThisMethod.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/Debug/net6.0/.NETCoreApp,Version=v6.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/Debug/net6.0/Midterm.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/Debug/net6.0/Midterm.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/Debug/net6.0/Midterm.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/Debug/net6.0/Midterm.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/Debug/net6.0/Midterm.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/Debug/net6.0/Midterm.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/Debug/net6.0/Midterm.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/Debug/net6.0/Midterm.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/Midterm.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/Midterm.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/Midterm.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Midterm/Midterm/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/.idea/.idea.NewMidterm/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/.idea/.idea.NewMidterm/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/IGetData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/NewMidterm.sln.DotSettings.user" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TaxChecker.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TaxForm.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/TestProject1.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/Usings.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/bin/Debug/net7.0/CoverletSourceRootsMapping" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/Debug/net7.0/TestProject1.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/Debug/net7.0/TestProject1.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/Debug/net7.0/TestProject1.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/Debug/net7.0/TestProject1.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/Debug/net7.0/TestProject1.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/Debug/net7.0/TestProject1.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/TestProject1.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/TestProject1.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/TestProject1.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/TestProject1/obj/rider.project.restore.info" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/Debug/net7.0/.NETCoreApp,Version=v7.0.AssemblyAttributes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/Debug/net7.0/NewMidterm.AssemblyInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/Debug/net7.0/NewMidterm.AssemblyInfoInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/Debug/net7.0/NewMidterm.GeneratedMSBuildEditorConfig.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/Debug/net7.0/NewMidterm.GlobalUsings.g.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/Debug/net7.0/NewMidterm.assets.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/Debug/net7.0/NewMidterm.csproj.AssemblyReference.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/Debug/net7.0/NewMidterm.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/Debug/net7.0/NewMidterm.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/NewMidterm.csproj.nuget.dgspec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/NewMidterm.csproj.nuget.g.props" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/NewMidterm.csproj.nuget.g.targets" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/project.assets.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/project.nuget.cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/project.packagespec.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../NewMidterm/obj/rider.project.restore.info" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2.sln.DotSettings.user" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2.sln.DotSettings.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/bin/Debug/net7.0/Homework2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/bin/Debug/net7.0/Homework2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/bin/Debug/net7.0/Homework2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/bin/Debug/net7.0/Homework2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/Homework2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/ref/Homework2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/ref/Homework2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/refint/Homework2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/Homework2/obj/Debug/net7.0/refint/Homework2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/bin/Debug/net7.0/Homework2.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/bin/Debug/net7.0/Homework2.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/bin/Debug/net7.0/Homework2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/bin/Debug/net7.0/Homework2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/bin/Debug/net7.0/TestProject1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/bin/Debug/net7.0/TestProject1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/bin/Debug/net7.0/TestProject1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/bin/Debug/net7.0/TestProject1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/TestProject1.csproj.AssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/TestProject1.csproj.AssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/TestProject1.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/TestProject1.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/TestProject1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/TestProject1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/TestProject1.genruntimeconfig.cache" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/TestProject1.genruntimeconfig.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/TestProject1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/TestProject1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/ref/TestProject1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/ref/TestProject1.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/refint/TestProject1.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Homework2/Homework2/TestProject1/obj/Debug/net7.0/refint/TestProject1.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,23 +127,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "rider.external.source.directories": [
-      "/Users/andrewmusielak/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache",
-      "/Users/andrewmusielak/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache",
-      "/Users/andrewmusielak/.local/share/Symbols/src"
+  &quot;keyToStringList&quot;: {
+    &quot;rider.external.source.directories&quot;: [
+      &quot;/Users/andrewmusielak/Library/Application Support/JetBrains/Rider2022.3/resharper-host/DecompilerCache&quot;,
+      &quot;/Users/andrewmusielak/Library/Application Support/JetBrains/Rider2022.3/resharper-host/SourcesCache&quot;,
+      &quot;/Users/andrewmusielak/.local/share/Symbols/src&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="PhoneNumberChecker" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -72,6 +177,7 @@
       <workItem from="1675973179943" duration="486000" />
       <workItem from="1675973686789" duration="52000" />
       <workItem from="1675973869361" duration="1431000" />
+      <workItem from="1677620913191" duration="3000" />
     </task>
     <servers />
   </component>
